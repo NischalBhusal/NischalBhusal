@@ -1,20 +1,77 @@
-<h1 align="center">Hi, I'm Nischal Bhusal</h1>
-<h3 align="center">Passionate about technology, coding, and continuous growth.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi 👋, I'm Nischal Bhusal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nischalbhusal&label=Profile%20views&color=0e75b6&style=flat" alt="nischalbhusal" /> </p>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Machine+Learning+Enthusiast;AI+Developer;Building+AI+Tools;Future+AI+Researcher)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhusal8nischal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhusal8nischal" height="30" width="40" /></a>
+</div>
+<!-- 
+  ## About Me
+- Electrical Engineering student at **Pulchowk Engineering Campus**
+- Interested in **Machine Learning, AI, Robotics, and Research**
+- Building **AI tools, ML projects, and automation software**
+- Exploring **LLMs, AI agents, and ML systems**
+- Learning something new about **AI every day**
+-->
+
+---
+<p align="center"> 
+
+  <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/PyTorch-C2462B?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Agent-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=scribd&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Web%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nischalbhusal&show_icons=true&locale=en&layout=compact" alt="nischalbhusal" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nischalbhusal&show_icons=true&locale=en" alt="nischalbhusal" /></p>
+<a href="https://github.com/NischalBhusal">
+<img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nischalbhusal&" alt="nischalbhusal" /></p>
+<a href="https://www.linkedin.com/in/nischalbhusal/">
+<img src="https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://x.com/nischalneural">
+<img src="https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+
+</div>
+
+---
+<table>
+<tr>
+<td colspan="2">
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=NischalBhusal&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true">
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NischalBhusal&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com?user=NischalBhusal&theme=nord&hide_border=true">
+</td>
+<td>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NischalBhusal&theme=nord_dark">
+</td>
+</tr>
+
+</table>
